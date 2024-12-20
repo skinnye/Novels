@@ -1,0 +1,24 @@
+C:\Users\student.USUE\Downloads\Novels_Narkomans\bin\Debug\Novels_Narkomans.exe.config
+C:\Users\student.USUE\Downloads\Novels_Narkomans\bin\Debug\Novels_Narkomans.exe
+C:\Users\student.USUE\Downloads\Novels_Narkomans\bin\Debug\Novels_Narkomans.pdb
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.csprojAssemblyReference.cache
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.Form1.resources
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.Properties.Resources.resources
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.csproj.GenerateResource.cache
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.exe
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.pdb
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.SettingsForm.resources
+C:\Users\student.USUE\Downloads\Novels_Narkomans\obj\Debug\Novels_Narkomans.Disclaimer.resources
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\bin\Debug\Novels_Narkomans.exe.config
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\bin\Debug\Novels_Narkomans.exe
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\bin\Debug\Novels_Narkomans.pdb
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.csproj.AssemblyReference.cache
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.Disclaimer.resources
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.Properties.Resources.resources
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.SettingsForm.resources
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.csproj.GenerateResource.cache
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.csproj.CoreCompileInputs.cache
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.exe
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.pdb
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.stage1.resources
+C:\Users\ivan2\OneDrive\Рабочий стол\Novels_Narkomans\obj\Debug\Novels_Narkomans.Form1.resources
