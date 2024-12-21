@@ -177,5 +177,11 @@ namespace Novels_Narkomans
             MusicPlayer.Dispose(); // Освобождаем ресурсы музыки при закрытии формы
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Saves saveStagesForm = new Saves();
+            saveStagesForm.Show();
+        }
     }
 }

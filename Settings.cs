@@ -85,10 +85,12 @@ namespace Novels_Narkomans
                     Bounds = Screen.PrimaryScreen.Bounds
                 };
 
-                stage1 stage1 = new stage1();
-                stage1.FormBorderStyle = FormBorderStyle.None;
-                stage1.WindowState = FormWindowState.Maximized;
-                stage1.Bounds = Screen.PrimaryScreen.Bounds;
+                stage1 stage1 = new stage1
+                {
+                    FormBorderStyle = FormBorderStyle.None,
+                    WindowState = FormWindowState.Maximized,
+                    Bounds = Screen.PrimaryScreen.Bounds
+                };
 
 
             }
@@ -150,7 +152,7 @@ namespace Novels_Narkomans
             // Apply the new display mode
             ApplyDisplayMode();
         }
-        private SoundPlayer _player;
+        private readonly SoundPlayer _player;
         private void SettingsForm_FormClosing(object sender, FormClosingEventArgs e)
         { 
             _player.Dispose(); // Освобождаем ресурсы

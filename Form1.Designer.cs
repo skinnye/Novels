@@ -36,7 +36,7 @@ namespace Novels_Narkomans
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -114,21 +114,21 @@ namespace Novels_Narkomans
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // button5
+            // button6
             // 
-            this.button5.BackColor = System.Drawing.Color.Transparent;
-            this.button5.CausesValidation = false;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button5.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.button5.Location = new System.Drawing.Point(45, 414);
-            this.button5.Margin = new System.Windows.Forms.Padding(4);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(400, 48);
-            this.button5.TabIndex = 2;
-            this.button5.Text = "Сохранения";
-            this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.button1_Click);
+            this.button6.BackColor = System.Drawing.Color.Transparent;
+            this.button6.CausesValidation = false;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button6.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.button6.Location = new System.Drawing.Point(45, 413);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(400, 48);
+            this.button6.TabIndex = 3;
+            this.button6.Text = "Сохранения";
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // Form1
             // 
@@ -136,7 +136,7 @@ namespace Novels_Narkomans
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1712, 1055);
-            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button4);
@@ -158,7 +158,7 @@ namespace Novels_Narkomans
 		private System.Windows.Forms.Button button2;
 		private System.Windows.Forms.Button button3;
 		private System.Windows.Forms.Button button4;
-		private System.Windows.Forms.Button button5;
-	}
+        private System.Windows.Forms.Button button6;
+    }
 }
 
